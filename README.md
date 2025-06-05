@@ -8,3 +8,8 @@ Integrantes do projeto
 
 ## Objetivo: Explorar como o pensamento computacional (PC) é aplicado em diversas áreas e discutir suas limitações, promovendo uma análise crítica sobre seu impacto na resolução de problemas.
 ![imagem 1]('/c/Users/Suelen/Desktop/Pensamento_a1/Projeto_A1_Kadjidja-main/Projeto_A1_Kadjidja/imagens/WhatsApp Image 2025-06-03 at 22.57.20 (15).png')
+
+
+/c/Users/Suelen/Desktop/Pensamento_a1/Projeto_A1_Kadjidja-main/Projeto_A1_Kadjidja/imagens/WhatsA
+
+![Imagem do Projeto](./imagens/imagem1.png)
