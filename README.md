@@ -6,8 +6,11 @@ Integrantes do projeto
 ## 1.Introdução
 
 De acordo com Jeannette M. Wing(2006) o pensamento computacional é baseado em poder e limites dos processos da computação independentes se forem executados por um humano ou máquina, ele permite a coragem para resolver problemas que não é possível resolver. Ela afirma também que não só cientistas informáticos podem ter a capacidade do pensamento computacional, mas qualquer um. O entendimento dessas afirmações é entendida que pode resolver e identificar problemas utilizando métodos da ciência da computação e obter resultados. 
+
 Em 2007, Wing em uma apresentação sobre o PC, afirmou que este processo está revolucionando áreas como estatísticas, biologia, economia, química, física, neurociência, geologia, astronomia, matemática, todas as engenharias, direito, medicina, entretenimentos e educação. Defendendo que a metodologia não é apenas para os pesquisadores ou cientistas, mas para todos, listando uma série de vantagens dessa abordagem.
+
 O PC não requer codificação e pode ser realizada completamente desplugada, concentrar esforços no desenvolvimento do pensamento lógico e no pensamento que se baseia na resolução de problemas, proporcionando perguntas que podem lhe dar algumas ideias ou alternativas. Para Nick Pinder, gerente de projetos da metodologia e projetos de ensino superior no ISTE (Sociedade Internacional de Tecnologia na Educação), defende que, da mesma maneira que a tecnologia é utilizada, o pensamento computacional pode ser aplicado em qualquer área do conhecimento.
+
 A sociedade está cada vez mais conectada no qual exige cuidados especiais com a segurança digital. Com isso, o uso de senhas fortes é importante para proteger informações pessoais ou até mesmo no meio corporativo contra acessos não autorizados. De acordo com um relatório da empresa de segurança SpyCloud, analisado pelo site Olhar Digital (2021), mesmo com constantes alertas de especialistas, o uso de senhas fracas e o hábito de reutilizá-las em diferentes serviços ainda são práticas comuns entre os usuários.
 O objetivo deste trabalho é demonstrar como o pensamento computacional pode ser usado para desenvolver um gerador de senhas seguras, desafios, limites e o impacto sobre essa prática.
 
