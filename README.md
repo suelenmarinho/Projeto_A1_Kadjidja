@@ -17,16 +17,16 @@ Desta forma, podemos confirmar sua aplicação em diversos meios. Para esta solu
 
 ![Imagem do Projeto](./imagens/imagem1.png)
 
-Decomposição(dividir o problema): O problema foi dividido em etapas: solicitar o tamanho da senha, validar tamanho mínimo, gerar caracteres aleatórios e garantir que não tenha senhas repetidas.
-Reconhecimento de Padrões(Encontrar padrões):Observar que senhas fortes seguem as seguintes características: maiúsculas, minúsculas, números e símbolos. O código segue essas características.
-Abstração(focar no essencial):Aqui o foco não está em caracteres específicos mas sim em garantir que a senha seja forte.
-Desenvolver Algoritmo(criar sequência de passos lógicos):Foi elaborado um algoritmo que gere senhas aleatórias, sem repetição, e que tenha combinações que fazem dela uma senha forte conforme as características necessárias para garantir maior segurança na senha.
+- Decomposição(dividir o problema): O problema foi dividido em etapas: solicitar o tamanho da senha, validar tamanho mínimo, gerar caracteres aleatórios e garantir que não tenha senhas repetidas.
+- Reconhecimento de Padrões(Encontrar padrões):Observar que senhas fortes seguem as seguintes características: maiúsculas, minúsculas, números e símbolos. O código segue essas características.
+- Abstração(focar no essencial):Aqui o foco não está em caracteres específicos mas sim em garantir que a senha seja forte.
+- Desenvolver Algoritmo(criar sequência de passos lógicos):Foi elaborado um algoritmo que gere senhas aleatórias, sem repetição, e que tenha combinações que fazem dela uma senha forte conforme as características necessárias para garantir maior segurança na senha.
 
 ## 3.Limitações e Desafios
 Apesar de toda eficiência do pensamento computacional para geração de senhas segura existem seus desafios e limitações, como por exemplo: 
-Desafios humanos: Mesmo tendo muitas orientações em ter senhas fortes, muitas pessoas preferem senhas fáceis por serem mais fáceis de memorizar.
-Limitações do pensamento computacional: Por mais que essa técnica seja útil para gerar senhas fortes, não impede dos ataques cibernéticos ou vazamentos de dados
-Expiração de senhas: É de suma importância em sistemas críticos, que existam políticas para forçar os usuários a trocarem suas senhas em intervalos regulares. Isso dificulta ainda mais que supercomputadores decodifiquem senhas antigas com base no hash atual.
+- Desafios humanos: Mesmo tendo muitas orientações em ter senhas fortes, muitas pessoas preferem senhas fáceis por serem mais fáceis de memorizar.
+- Limitações do pensamento computacional: Por mais que essa técnica seja útil para gerar senhas fortes, não impede dos ataques cibernéticos ou vazamentos de dados
+- Expiração de senhas: É de suma importância em sistemas críticos, que existam políticas para forçar os usuários a trocarem suas senhas em intervalos regulares. Isso dificulta ainda mais que supercomputadores decodifiquem senhas antigas com base no hash atual.
 
 ## 4.Metodologia
 
